@@ -1,6 +1,6 @@
 {
   "$GMProject":"",
-  "%Name":"movimientos",
+  "%Name":"jugador",
   "AudioGroups":[
     {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
@@ -37,7 +37,7 @@
   "MetaData":{
     "IDEVersion":"2024.8.1.171",
   },
-  "name":"movimientos",
+  "name":"jugador",
   "resources":[
     {"id":{"name":"obj_jugador","path":"objects/obj_jugador/obj_jugador.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
